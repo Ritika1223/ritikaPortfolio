@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ritikaPortfolio/static/css/main.692506e3.css",
+    "main.js": "/ritikaPortfolio/static/js/main.11ef8bd1.js",
+    "static/js/453.ea1d8c03.chunk.js": "/ritikaPortfolio/static/js/453.ea1d8c03.chunk.js",
+    "static/media/gym-fitness.png": "/ritikaPortfolio/static/media/gym-fitness.cae55d962767a56af6dd.png",
+    "static/media/calendar.png": "/ritikaPortfolio/static/media/calendar.138477dee502bd1e8750.png",
+    "static/media/avtar.jpg": "/ritikaPortfolio/static/media/avtar.0f66890e36ad3531a238.jpg",
+    "index.html": "/ritikaPortfolio/index.html",
+    "main.692506e3.css.map": "/ritikaPortfolio/static/css/main.692506e3.css.map",
+    "main.11ef8bd1.js.map": "/ritikaPortfolio/static/js/main.11ef8bd1.js.map",
+    "453.ea1d8c03.chunk.js.map": "/ritikaPortfolio/static/js/453.ea1d8c03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692506e3.css",
+    "static/js/main.11ef8bd1.js"
+  ]
+}
