@@ -38,6 +38,20 @@ export default function About() {
             </div>
           </li>
 
+          {/* New Service: Java Development */}
+          <li className="service-item">
+            <div className="service-icon-box">
+              <span className="material-icons text-white" style={{ fontSize: "40px" }}>terminal</span>
+            </div>
+
+            <div className="service-content-box">
+              <h4 className="h4 service-item-title">Java Development</h4>
+              <p className="service-item-text">
+                Writing robust and efficient Java applications for backend systems, enterprise applications, and real-time problem solving.
+              </p>
+            </div>
+          </li>
+
           <li className="service-item">
             <div className="service-icon-box">
               <span className="material-icons text-white" style={{ fontSize: "40px" }}>code</span>
@@ -64,6 +78,21 @@ export default function About() {
             </div>
           </li>
 
+          
+          {/* New Service: Web App Dev using REST APIs */}
+          <li className="service-item">
+            <div className="service-icon-box">
+              <span className="material-icons text-white" style={{ fontSize: "40px" }}>api</span>
+            </div>
+
+            <div className="service-content-box">
+              <h4 className="h4 service-item-title">Web Application Development using REST APIs</h4>
+              <p className="service-item-text">
+                Developing web applications that interact with RESTful services for efficient data communication and seamless user experiences.
+              </p>
+            </div>
+          </li>
+
           <li className="service-item">
             <div className="service-icon-box">
               <span className="material-icons text-white" style={{ fontSize: "40px" }}>settings</span>
@@ -76,6 +105,9 @@ export default function About() {
               </p>
             </div>
           </li>
+
+          
+
         </ul>
       </section>
     </article>
